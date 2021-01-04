@@ -1,0 +1,3 @@
+C:\projects\typescript\RavelDev.Librarians.ClassicalComposers\obj\Debug\RavelDev.Librarians.ClassicalComposers.njsprojAssemblyReference.cache
+C:\projects\typescript\RavelDev.Librarians.ClassicalComposers\obj\Debug\RavelDev.Librarians.ClassicalComposers.njsproj.CoreCompileInputs.cache
+C:\projects\typescript\RavelDev.Librarians.ClassicalComposers\bin\Microsoft.NodejsTools.WebRole.dll

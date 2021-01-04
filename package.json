@@ -1,0 +1,24 @@
+{
+  "name": "ravel-dev.librarians.classical-composers",
+  "version": "0.0.0",
+  "description": "RavelDev.Librarians.ClassicalComposers",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "chromedriver": "^87.0.4",
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
